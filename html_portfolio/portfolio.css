@@ -13,7 +13,7 @@ body {
 }
 
 .front {
-    background-color: #7a1f1f;
+    background-color: "black";
     background-image: url(background.jpeg);
     background-size: cover;
     background-position: center;
@@ -193,4 +193,5 @@ footer {
     }
 
 }
+
 
